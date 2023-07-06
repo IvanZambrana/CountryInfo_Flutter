@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456727832172",
+    "project_id": "f1-api-info",
+    "storage_bucket": "f1-api-info.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456727832172:android:77ed12a23c6f3ef8b85a49",
+        "android_client_info": {
+          "package_name": "es.ivanzambrananaranjo.f1info"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy9Go5AcZsrLNH1fZFXCFjxFbviF0RSHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
